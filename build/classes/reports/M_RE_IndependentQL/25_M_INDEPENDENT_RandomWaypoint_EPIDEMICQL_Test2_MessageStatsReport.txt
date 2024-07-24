@@ -1,0 +1,20 @@
+Message stats for scenario 25_M_INDEPENDENT_RandomWaypoint_EPIDEMICQL_Test2
+sim_time: 274883.0000
+created: 5052
+started: 85726
+relayed: 85715
+aborted: 11
+dropped: 48625
+removed: 37135
+delivered: 4835
+delivery_prob: 0.9570
+response_prob: 0.0000
+overhead_ratio: 16.7280
+latency_avg: 1545.3427
+latency_med: 1511.7000
+hopcount_avg: 2.1330
+hopcount_med: 2
+buffertime_avg: 564.2644
+buffertime_med: 300.8000
+rtt_avg: NaN
+rtt_med: NaN
